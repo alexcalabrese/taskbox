@@ -1,6 +1,6 @@
-# UI Element Detection and Classification
+# UI Element Detection and Navigation
 
-A comprehensive deep learning project for detecting and classifying UI elements in mobile and web applications using YOLO (You Only Look Once), various classification models, and Gemini AI for intelligent interaction.
+A specialized deep learning project that combines fine-tuned YOLO object detection with Gemini AI to enable intelligent UI navigation. The system generates accurate bounding boxes around UI elements using our custom-trained YOLO model, then leverages Gemini's advanced reasoning to select the most appropriate elements for executing user-specified tasks and interactions.
 
 ## Demo
 
