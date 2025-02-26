@@ -4,7 +4,7 @@ A comprehensive deep learning project for detecting and classifying UI elements 
 
 ## Demo
 
-[![Watch the video]](https://raw.githubusercontent.com/alexcalabrese/taskbox/main/assets/agent_demo.mp4)
+https://github.com/user-attachments/assets/d116599f-4f1d-44fe-a3c3-c7fa1e051bcb
 
 ## Project Overview
 
